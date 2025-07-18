@@ -13,7 +13,7 @@ Install the gem:
 
 Add it to your Gemfile (inside test group):
 
-    gem 'guard-karafka'
+    gem 'guard-karafka', github: 'hcgtheplus/guard-karafka'
 
 Add guard definition to your Guardfile by running this command:
 
