@@ -1,0 +1,3 @@
+guard 'karafka' do
+  watch(%r{^consumers/(.+)\.rb$})
+end
